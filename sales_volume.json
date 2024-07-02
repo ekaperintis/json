@@ -1,7 +1,7 @@
 {
-    "name": "John Doe",
-    "age": 30,
-    "email": "johndoe@example.com",
+    "title": "EBCI Selling Price, Production Cost & Market Price",
+    "subtille": "Commercial networks & enterprises",
+    "description": "Report 1",
     "skills": [
         "JavaScript",
         "Python",
